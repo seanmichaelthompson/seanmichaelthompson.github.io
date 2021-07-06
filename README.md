@@ -1,4 +1,4 @@
-Hi. *waves*
+Hi. 
 
 I'm Sean. I do anthropology, computational quali-quanti methods, and maps. My computational anthropology repo will be open shortly, with scripts for web scraping and exploring qualitative data.
 
